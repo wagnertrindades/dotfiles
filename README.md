@@ -1,4 +1,9 @@
-# [Cătălin](https://github.com/alrra)’s dotfiles
+# My DotFiles
+My init setup system for developement
+
+## Basead in:
+
+## [Cătălin](https://github.com/alrra)’s dotfiles
 
 [![Build Status](https://travis-ci.org/alrra/dotfiles.svg?branch=master)](https://travis-ci.org/alrra/dotfiles)
 
